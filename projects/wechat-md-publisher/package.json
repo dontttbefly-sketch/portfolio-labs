@@ -1,0 +1,15 @@
+{
+  "name": "wechat-md-publisher",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node src/cli.js check",
+    "preview": "node src/cli.js preview",
+    "draft": "node src/cli.js draft",
+    "generate-cover": "node scripts/generate-default-cover.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

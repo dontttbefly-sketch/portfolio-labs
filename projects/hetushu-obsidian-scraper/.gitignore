@@ -1,0 +1,34 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.state/
+rules.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# JavaScript dependencies, if helper scripts are added later
+node_modules/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Generated crawler outputs
+my_code.txt
+凡人修仙传.txt
+output/
+outputs/
+books/
+
+# Logs and reports
+*.log
+playwright-report/
+test-results/

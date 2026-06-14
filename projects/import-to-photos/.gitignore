@@ -1,0 +1,26 @@
+.DS_Store
+
+# Local/private photos in this workspace root.
+/*.png
+/*.jpg
+/*.jpeg
+/*.heic
+/*.heif
+/*.gif
+/*.tif
+/*.tiff
+/*.bmp
+/*.webp
+
+# Local machine configuration.
+ImportToPhotos/DefaultImportFolder.txt
+
+# Build products and generated assets.
+ImportToPhotos/.build/
+ImportToPhotos/ImportToPhotos.app/
+ImportToPhotos/ImportToPhotos.icns
+ImportToPhotos/ImportToPhotos.iconset/
+
+# macOS metadata files.
+Icon?
+
