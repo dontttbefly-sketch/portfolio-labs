@@ -13,7 +13,6 @@ standalone public repositories.
 | --- | --- | --- | --- |
 | `wechat-md-publisher` | [`dontttbefly-sketch/wechat-md-publisher`](https://github.com/dontttbefly-sketch/wechat-md-publisher) | `696c23c` | Local Markdown to WeChat draft publishing workflow. |
 | `hetushu-obsidian-scraper` | [`dontttbefly-sketch/hetushu-obsidian-scraper`](https://github.com/dontttbefly-sketch/hetushu-obsidian-scraper) | `2ff68ad` | Playwright example for collecting rendered chapter content into Obsidian Markdown. |
-| `import-to-photos` | [`dontttbefly-sketch/import-to-photos`](https://github.com/dontttbefly-sketch/import-to-photos) | `c576a5d` | Small local-first macOS utility for importing images into Photos. |
 | `VideoCode` | [`dontttbefly-sketch/VideoCode`](https://github.com/dontttbefly-sketch/VideoCode) | `b05293d` | Study/forked learning material kept as a historical reference. |
 
 ## Status
