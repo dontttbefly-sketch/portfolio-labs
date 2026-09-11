@@ -12,7 +12,6 @@ standalone public repositories.
 | Project | Source repository | Snapshot | Notes |
 | --- | --- | --- | --- |
 | `wechat-md-publisher` | [`dontttbefly-sketch/wechat-md-publisher`](https://github.com/dontttbefly-sketch/wechat-md-publisher) | `696c23c` | Local Markdown to WeChat draft publishing workflow. |
-| `hetushu-obsidian-scraper` | [`dontttbefly-sketch/hetushu-obsidian-scraper`](https://github.com/dontttbefly-sketch/hetushu-obsidian-scraper) | `2ff68ad` | Playwright example for collecting rendered chapter content into Obsidian Markdown. |
 | `VideoCode` | [`dontttbefly-sketch/VideoCode`](https://github.com/dontttbefly-sketch/VideoCode) | `b05293d` | Study/forked learning material kept as a historical reference. |
 
 ## Status
